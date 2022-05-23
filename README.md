@@ -3,5 +3,5 @@
 Work completed for the following course:
 
 Oklahoma State University
-Design and Implementation of Algorithms
+Data Structures and Algorithm Analysis I
 Professor Shital Joshi
